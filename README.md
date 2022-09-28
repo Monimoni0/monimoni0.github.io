@@ -4,9 +4,9 @@
 
 
 ### Links
-[Presentation page](https://monimoni0.github.io) (e.g. https://huyen-nguyen.github.io/hci-template, contains content of this README)
+[Presentation page](https://monimoni0.github.io)
 
-[GitHub repository](https://github.com/monimoni0/hci-template) (e.g. https://github.com/huyen-nguyen/hci-template)
+[GitHub repository](https://github.com/Monimoni0/monimoni0.github.io)
 
 [Demo](https://huyen-nguyen.github.io/hci-template/demo.html) (e.g. https://huyen-nguyen.github.io/hci-template/demo.html, the demo file **should not** be named index.html)
 
