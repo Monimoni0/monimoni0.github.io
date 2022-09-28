@@ -55,7 +55,7 @@ in case of an emergency.
         Emergency Stop button</br>  
                 - Stops the elevator abruptly</br>
         Alarm</br>
-                - Alerts foor traffic close to the elevator and building personnel that users in the elevator
+                - Alerts foot traffic close to the elevator and building personnel that users in the elevator
 are in danger</br> 
         Firefighter Operation</br> 
                 - Firegfighter panel door hides essential elevator operations that should not be available for the
@@ -94,11 +94,16 @@ Elevator button lights up when pressed to communicate the elevator button was pr
 
 - What are some common mistakes you can make with this current design?</br>
 Press the wrong button for "door open" / "door close" if you dont see the text undeneath the button </br>
-accidentally press one of the emrgency buttons because the text on the side of the button is the same color as the rest of the buttons </br>
+Accidentally press one of the emrgency buttons because the text on the side of the button is the same color as the rest of the buttons </br>
 
 
 - Suggest the improvements to make on the control interface. Sketch your solution. And justify your design decisions.
 ![Elevator_Sketch_Monimoni0](p1.monica.romero.png)
+
+Box surrounds buttons to give a clearer picture of each buttons function </br>
+White pannel removed from original interface and firefighters operation door moved slightly higher </br>
+"Help", "Stop", and "Alarm" buttons will be a different, brighter color for easy identification in a state of panic </br>
+
 
 ### Getting A
 
