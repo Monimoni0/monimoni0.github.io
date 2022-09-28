@@ -18,8 +18,8 @@
 
 - Take photos of the control interface
 
-![Elevator_Image_Monimoni0](https://imgur.com/vnlD3sq)
-
+![Elevator_Image1_Monimoni0](floor1.jpeg)
+![Elevator_Image2_Monimoni0](floor2.jpeg)
 -  Show a gif image of the control interface in operation.
 
 ![Elevator_Gif_Monimoni0](https://media.giphy.com/media/ts4U2JEDwmLSlt42MO/giphy.gif)
