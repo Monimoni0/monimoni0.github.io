@@ -98,6 +98,7 @@ accidentally press one of the emrgency buttons because the text on the side of t
 
 
 - Suggest the improvements to make on the control interface. Sketch your solution. And justify your design decisions.
+![Elevator_Sketch_Monimoni0](p1.monica.romero.png)
 
 ### Getting A
 
