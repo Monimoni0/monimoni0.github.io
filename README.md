@@ -4,9 +4,9 @@
 
 
 ### Links
-[Presentation page](https://monimoni0.github.io)
+[Presentation page](https://monimoni0.github.io/p1.monica.romero.github.io/)
 
-[GitHub repository](https://github.com/Monimoni0/monimoni0.github.io)
+[GitHub repository](https://github.com/Monimoni0/p1.monica.romero.github.io)
 
 [Demo](https://user-images.githubusercontent.com/92336816/192930954-a9b53ce9-c652-4d96-8b64-8dce0e4cae7f.mov)
 
