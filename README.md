@@ -8,7 +8,9 @@
 
 [GitHub repository](https://github.com/Monimoni0/monimoni0.github.io)
 
-[Demo](https://giphy.com/gifs/NCBxL8PffoZsWei947)
+[Demo](https://user-images.githubusercontent.com/92336816/192930954-a9b53ce9-c652-4d96-8b64-8dce0e4cae7f.mov)
+
+[Gif Demo](https://giphy.com/gifs/NCBxL8PffoZsWei947)
 
 
 
@@ -124,5 +126,5 @@ White pannel removed from original interface and firefighters operation door mov
 - Your imagination ...
 
 
-https://user-images.githubusercontent.com/92336816/192930954-a9b53ce9-c652-4d96-8b64-8dce0e4cae7f.mov
-
+https://user-images.githubusercontent.com/92336816/192930954-a9b53ce9-c652-4d96-8b64-8dce0e4cae7f.mov </br>
+<img src="p1.monica.romero.gif" width="360" height="740"/>
